@@ -1,0 +1,16 @@
+#ftp账号
+FTPuser='one'
+#ftp密码
+FTPpasswd='one'
+#ftp外网ip
+WanFTPIP='192.168.100.200'
+#ftp内网ip
+LanFTPIP='192.168.200.200'
+#外网主机同步目录
+WanLocalDIR='e:/ftp'
+#内网主机同步目录
+LanLocalDIR='e:/ftp'
+#FTP上使用目录
+FTPDIR='/one'
+#FTP端口,无需更改
+FTPPORT='21'
