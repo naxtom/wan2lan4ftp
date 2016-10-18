@@ -13,9 +13,7 @@
 
 #使用方法
 
-配置config.ini文件
-在外网机运行upload.py
-运行完毕后
-在内网机运行download.py
+- 配置config.ini文件
+- 在外网机运行upload.py
+- 在内网机运行download.py
 
-#
